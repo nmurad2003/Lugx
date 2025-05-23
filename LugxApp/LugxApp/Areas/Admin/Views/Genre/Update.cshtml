@@ -1,0 +1,16 @@
+﻿@using LugxApp.ViewModels.GenreVMs
+@model GenreUpdateVM
+
+<div class="container-fluid">
+    <form method="post">
+        <div class="form-group">
+            <label asp-for="Name">Name</label>
+            <input asp-for="Name" type="text" class="form-control" placeholder="Type here...">
+            <span asp-validation-for="Name" class="text-danger sm"></span>
+        </div>
+
+        <button type="submit" class="btn btn-primary" asp-action="Update">
+            Update
+        </button>
+    </form>
+</div>

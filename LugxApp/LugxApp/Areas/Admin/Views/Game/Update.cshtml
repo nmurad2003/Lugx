@@ -1,0 +1,55 @@
+﻿@using LugxApp.ViewModels.GameVMs
+@using LugxApp.ViewModels.GenreVMs
+@model GameUpdateVM
+
+<div class="container-fluid">
+    <form method="post" enctype="multipart/form-data">
+        <div>
+            <p>Current Photo:</p>
+            <img width="60" height="60" src="@Model.ImagePath" />
+            <input type="hidden" asp-for="@Model.Image" />
+        </div>
+
+        <div class="form-group">
+            <label asp-for="Name">Name</label>
+            <input asp-for="Name" type="text" class="form-control" placeholder="Type here...">
+            <span asp-validation-for="Name" class="text-danger sm"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="Price">Price</label>
+            <input asp-for="Price" type="number" class="form-control" placeholder="Type here...">
+            <span asp-validation-for="Price" class="text-danger sm"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="Discount">Discount</label>
+            <input asp-for="Discount" type="number" class="form-control" placeholder="Type here...">
+            <span asp-validation-for="Discount" class="text-danger sm"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="GenreId">Genre</label>
+            <select asp-for="GenreId">
+                @foreach (GenreGetVM item in ViewBag.Genres)
+                {
+                    <option value="@item.Id">@item.Name</option>
+                }
+
+            </select>
+
+            <span asp-validation-for="GenreId" class="text-danger sm"></span>
+        </div>
+
+
+        <div class="form-group">
+            <label asp-for="Image">Image</label>
+            <input asp-for="Image" type="file" class="form-control" placeholder="Type here...">
+            <span asp-validation-for="Image" class="text-danger sm"></span>
+        </div>
+
+        <button type="submit" class="btn btn-primary" asp-action="Update">
+            Update
+        </button>
+    </form>
+</div>
