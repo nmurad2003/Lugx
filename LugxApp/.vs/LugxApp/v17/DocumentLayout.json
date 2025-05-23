@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\l novbe\\Desktop\\Murad\\Lugx\\LugxApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0D70C95F-302D-4215-B68D-DA2DE4DF23CE}|LugxApp\\LugxApp.csproj|c:\\users\\l novbe\\desktop\\murad\\lugx\\lugxapp\\lugxapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D70C95F-302D-4215-B68D-DA2DE4DF23CE}|LugxApp\\LugxApp.csproj|solutionrelative:lugxapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0D70C95F-302D-4215-B68D-DA2DE4DF23CE}|LugxApp\\LugxApp.csproj|c:\\users\\l novbe\\desktop\\murad\\lugx\\lugxapp\\lugxapp\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D70C95F-302D-4215-B68D-DA2DE4DF23CE}|LugxApp\\LugxApp.csproj|solutionrelative:lugxapp\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D70C95F-302D-4215-B68D-DA2DE4DF23CE}|LugxApp\\LugxApp.csproj|c:\\users\\l novbe\\desktop\\murad\\lugx\\lugxapp\\lugxapp\\viewmodels\\gamevms\\gameupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D70C95F-302D-4215-B68D-DA2DE4DF23CE}|LugxApp\\LugxApp.csproj|solutionrelative:lugxapp\\viewmodels\\gamevms\\gameupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D70C95F-302D-4215-B68D-DA2DE4DF23CE}|LugxApp\\LugxApp.csproj|c:\\users\\l novbe\\desktop\\murad\\lugx\\lugxapp\\lugxapp\\viewmodels\\gamevms\\gamecreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D70C95F-302D-4215-B68D-DA2DE4DF23CE}|LugxApp\\LugxApp.csproj|solutionrelative:lugxapp\\viewmodels\\gamevms\\gamecreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D70C95F-302D-4215-B68D-DA2DE4DF23CE}|LugxApp\\LugxApp.csproj|c:\\users\\l novbe\\desktop\\murad\\lugx\\lugxapp\\lugxapp\\viewmodels\\gamevms\\gamegetvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D70C95F-302D-4215-B68D-DA2DE4DF23CE}|LugxApp\\LugxApp.csproj|solutionrelative:lugxapp\\viewmodels\\gamevms\\gamegetvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +31,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\Murad\\Lugx\\LugxApp\\LugxApp\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "LugxApp\\Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\l novbe\\Desktop\\Murad\\Lugx\\LugxApp\\LugxApp\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "LugxApp\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\Murad\\Lugx\\LugxApp\\LugxApp\\Models\\Game.cs",
+              "RelativeDocumentMoniker": "LugxApp\\Models\\Game.cs",
+              "ToolTip": "C:\\Users\\l novbe\\Desktop\\Murad\\Lugx\\LugxApp\\LugxApp\\Models\\Game.cs",
+              "RelativeToolTip": "LugxApp\\Models\\Game.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T06:40:49.949Z",
+              "WhenOpened": "2025-05-23T07:34:07.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameGetVM.cs",
+              "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\Murad\\Lugx\\LugxApp\\LugxApp\\ViewModels\\GameVMs\\GameGetVM.cs",
+              "RelativeDocumentMoniker": "LugxApp\\ViewModels\\GameVMs\\GameGetVM.cs",
+              "ToolTip": "C:\\Users\\l novbe\\Desktop\\Murad\\Lugx\\LugxApp\\LugxApp\\ViewModels\\GameVMs\\GameGetVM.cs",
+              "RelativeToolTip": "LugxApp\\ViewModels\\GameVMs\\GameGetVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T07:34:20.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameCreateVM.cs",
+              "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\Murad\\Lugx\\LugxApp\\LugxApp\\ViewModels\\GameVMs\\GameCreateVM.cs",
+              "RelativeDocumentMoniker": "LugxApp\\ViewModels\\GameVMs\\GameCreateVM.cs",
+              "ToolTip": "C:\\Users\\l novbe\\Desktop\\Murad\\Lugx\\LugxApp\\LugxApp\\ViewModels\\GameVMs\\GameCreateVM.cs",
+              "RelativeToolTip": "LugxApp\\ViewModels\\GameVMs\\GameCreateVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T07:34:19.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameUpdateVM.cs",
+              "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\Murad\\Lugx\\LugxApp\\LugxApp\\ViewModels\\GameVMs\\GameUpdateVM.cs",
+              "RelativeDocumentMoniker": "LugxApp\\ViewModels\\GameVMs\\GameUpdateVM.cs",
+              "ToolTip": "C:\\Users\\l novbe\\Desktop\\Murad\\Lugx\\LugxApp\\LugxApp\\ViewModels\\GameVMs\\GameUpdateVM.cs",
+              "RelativeToolTip": "LugxApp\\ViewModels\\GameVMs\\GameUpdateVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T07:34:21.282Z",
               "EditorCaption": ""
             }
           ]

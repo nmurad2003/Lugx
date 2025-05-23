@@ -3,8 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\l novbe\\Desktop\\Murad\\Lugx\\LugxApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0D70C95F-302D-4215-B68D-DA2DE4DF23CE}|LugxApp\\LugxApp.csproj|c:\\users\\l novbe\\desktop\\murad\\lugx\\lugxapp\\lugxapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D70C95F-302D-4215-B68D-DA2DE4DF23CE}|LugxApp\\LugxApp.csproj|solutionrelative:lugxapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D70C95F-302D-4215-B68D-DA2DE4DF23CE}|LugxApp\\LugxApp.csproj|c:\\users\\l novbe\\desktop\\murad\\lugx\\lugxapp\\lugxapp\\areas\\admin\\controllers\\adminbasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D70C95F-302D-4215-B68D-DA2DE4DF23CE}|LugxApp\\LugxApp.csproj|solutionrelative:lugxapp\\areas\\admin\\controllers\\adminbasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0D70C95F-302D-4215-B68D-DA2DE4DF23CE}|LugxApp\\LugxApp.csproj|c:\\users\\l novbe\\desktop\\murad\\lugx\\lugxapp\\lugxapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0D70C95F-302D-4215-B68D-DA2DE4DF23CE}|LugxApp\\LugxApp.csproj|solutionrelative:lugxapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D70C95F-302D-4215-B68D-DA2DE4DF23CE}|LugxApp\\LugxApp.csproj|c:\\users\\l novbe\\desktop\\murad\\lugx\\lugxapp\\lugxapp\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D70C95F-302D-4215-B68D-DA2DE4DF23CE}|LugxApp\\LugxApp.csproj|solutionrelative:lugxapp\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D70C95F-302D-4215-B68D-DA2DE4DF23CE}|LugxApp\\LugxApp.csproj|c:\\users\\l novbe\\desktop\\murad\\lugx\\lugxapp\\lugxapp\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D70C95F-302D-4215-B68D-DA2DE4DF23CE}|LugxApp\\LugxApp.csproj|solutionrelative:lugxapp\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D70C95F-302D-4215-B68D-DA2DE4DF23CE}|LugxApp\\LugxApp.csproj|c:\\users\\l novbe\\desktop\\murad\\lugx\\lugxapp\\lugxapp\\viewmodels\\accountvms\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D70C95F-302D-4215-B68D-DA2DE4DF23CE}|LugxApp\\LugxApp.csproj|solutionrelative:lugxapp\\viewmodels\\accountvms\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D70C95F-302D-4215-B68D-DA2DE4DF23CE}|LugxApp\\LugxApp.csproj|c:\\users\\l novbe\\desktop\\murad\\lugx\\lugxapp\\lugxapp\\viewmodels\\accountvms\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D70C95F-302D-4215-B68D-DA2DE4DF23CE}|LugxApp\\LugxApp.csproj|solutionrelative:lugxapp\\viewmodels\\accountvms\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +43,92 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\Murad\\Lugx\\LugxApp\\LugxApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "LugxApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\l novbe\\Desktop\\Murad\\Lugx\\LugxApp\\LugxApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "LugxApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAIAwwDEAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T07:22:21.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminBaseController.cs",
+              "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\Murad\\Lugx\\LugxApp\\LugxApp\\Areas\\Admin\\Controllers\\AdminBaseController.cs",
+              "RelativeDocumentMoniker": "LugxApp\\Areas\\Admin\\Controllers\\AdminBaseController.cs",
+              "ToolTip": "C:\\Users\\l novbe\\Desktop\\Murad\\Lugx\\LugxApp\\LugxApp\\Areas\\Admin\\Controllers\\AdminBaseController.cs",
+              "RelativeToolTip": "LugxApp\\Areas\\Admin\\Controllers\\AdminBaseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T07:21:46.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "AccountController.cs",
               "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\Murad\\Lugx\\LugxApp\\LugxApp\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "LugxApp\\Controllers\\AccountController.cs",
               "ToolTip": "C:\\Users\\l novbe\\Desktop\\Murad\\Lugx\\LugxApp\\LugxApp\\Controllers\\AccountController.cs",
               "RelativeToolTip": "LugxApp\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAwwE0AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-23T06:40:49.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegisterVM.cs",
+              "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\Murad\\Lugx\\LugxApp\\LugxApp\\ViewModels\\AccountVMs\\RegisterVM.cs",
+              "RelativeDocumentMoniker": "LugxApp\\ViewModels\\AccountVMs\\RegisterVM.cs",
+              "ToolTip": "C:\\Users\\l novbe\\Desktop\\Murad\\Lugx\\LugxApp\\LugxApp\\ViewModels\\AccountVMs\\RegisterVM.cs",
+              "RelativeToolTip": "LugxApp\\ViewModels\\AccountVMs\\RegisterVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T06:48:02.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\Murad\\Lugx\\LugxApp\\LugxApp\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "LugxApp\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\l novbe\\Desktop\\Murad\\Lugx\\LugxApp\\LugxApp\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "LugxApp\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T07:01:21.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginVM.cs",
+              "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\Murad\\Lugx\\LugxApp\\LugxApp\\ViewModels\\AccountVMs\\LoginVM.cs",
+              "RelativeDocumentMoniker": "LugxApp\\ViewModels\\AccountVMs\\LoginVM.cs",
+              "ToolTip": "C:\\Users\\l novbe\\Desktop\\Murad\\Lugx\\LugxApp\\LugxApp\\ViewModels\\AccountVMs\\LoginVM.cs",
+              "RelativeToolTip": "LugxApp\\ViewModels\\AccountVMs\\LoginVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T06:50:32.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\Murad\\Lugx\\LugxApp\\LugxApp\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "LugxApp\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\l novbe\\Desktop\\Murad\\Lugx\\LugxApp\\LugxApp\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "LugxApp\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T07:01:24.932Z",
               "EditorCaption": ""
             }
           ]

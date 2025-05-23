@@ -58,7 +58,21 @@
                             <li><a href="shop.html">Our Shop</a></li>
                             <li><a href="product-details.html">Product Details</a></li>
                             <li><a href="contact.html">Contact Us</a></li>
-                            <li><a href="#">Sign In</a></li>
+
+                            @if (User.IsInRole("admin"))
+                            {
+                                <li><a asp-area="Admin" asp-controller="Dashboard">Admin Panel</a></li>
+                            }
+
+                            @if (User?.Identity?.IsAuthenticated == false)
+                            {
+                                <li><a asp-controller="Account" asp-action="Login">Sign In</a></li>
+                            }
+                            else
+                            {
+                                <li><a asp-controller="Account" asp-action="Logout">Logout</a></li>
+                            }
+
                         </ul>
                         <a class='menu-trigger'>
                             <span>Menu</span>
