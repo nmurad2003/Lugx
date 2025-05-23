@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\l novbe\\Desktop\\Murad\\Lugx\\LugxApp\\LugxApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\LugxApp.bundle.scp.css",
+      "PackagePath": "staticwebassets\\LugxApp.bundle.scp.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.LugxApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.LugxApp.props",
+      "PackagePath": "build\\LugxApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.LugxApp.props",
+      "PackagePath": "buildMultiTargeting\\LugxApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.LugxApp.props",
+      "PackagePath": "buildTransitive\\LugxApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

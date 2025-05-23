@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "ejR1H1eSQXL4/8Dmi2ia36DF05nOtYGFcFIgBCGIuEM=",
+  "Source": "LugxApp",
+  "BasePath": "_content/LugxApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "LugxApp\\wwwroot",
+      "Source": "LugxApp",
+      "ContentRoot": "C:\\Users\\l novbe\\Desktop\\Murad\\Lugx\\LugxApp\\LugxApp\\wwwroot\\",
+      "BasePath": "_content/LugxApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\l novbe\\Desktop\\Murad\\Lugx\\LugxApp\\LugxApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\LugxApp.styles.css",
+      "SourceId": "LugxApp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\l novbe\\Desktop\\Murad\\Lugx\\LugxApp\\LugxApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/LugxApp",
+      "RelativePath": "LugxApp.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\l novbe\\Desktop\\Murad\\Lugx\\LugxApp\\LugxApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\LugxApp.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\l novbe\\Desktop\\Murad\\Lugx\\LugxApp\\LugxApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\LugxApp.bundle.scp.css",
+      "SourceId": "LugxApp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\l novbe\\Desktop\\Murad\\Lugx\\LugxApp\\LugxApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/LugxApp",
+      "RelativePath": "LugxApp.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\l novbe\\Desktop\\Murad\\Lugx\\LugxApp\\LugxApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\LugxApp.bundle.scp.css"
+    }
+  ]
+}
